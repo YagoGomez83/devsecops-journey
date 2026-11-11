@@ -1,0 +1,10 @@
+# Secretos: nunca al repositorio
+.env
+*.pem
+*.key
+id_*
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
